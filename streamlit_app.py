@@ -62,37 +62,37 @@ CONSTRAINTS:
 
 EQUIPMENT & SPLITS:
 - Workout A (Gym A - Hammer Strength & Free Weights):
-    1. V-Squat Machine (Heavy Quad Focus)
-    2. Hammer Strength Flat Press (Max strength. Aim for 140+ lbs)
-    3. Hammer Strength Shoulder Press (Front Delts)
-    4. Hammer Strength Iso-Lat Chest/Back (Width Focus)
-    5. Leg Extension (Isolation)
-    6. Hammer Curls (Brachialis)
-    7. DB French Press (Tricep Mass)
-    8. Back Extension (Spinal Erectors)
-    9. Abdominal Machine
+    1. V-Squat Machine
+    2. H.S. Incline Press
+    3. Leg Extension
+    4. Abdominal Machine
+    5. H.S. Shoulder Press
+    6. H.S. Iso-Lat Chest/Back
+    7. Hammer Curls
+    8. DB French Press
+    9. Back Extension
 
 - Workout B (Gym B - Aesthetics/Upper Shelf):
-    1. Incline DB Press
-    2. Lat Pulldown (Cable)
-    3. Lateral Raise Machine (Drop sets allowed)
-    4. Leg Press
-    5. Pectoral Fly Machine (MAX 75 lbs)
-    6. Tricep Rope Pushdown
-    7. Bicep Curl Machine
-    8. Calf Raise (On Leg Press)
-    9. Ab Crunch Bench
+    1. Low Row
+    2. Leg Curl
+    3. Life Fitness Shoulder Press
+    4. H.S. Incline Press
+    5. Vertical Knee Raise
+    6. Dumbbell Rear Delt Fly
+    7. Zottman Curls
+    8. DB Shrugs
+    9. DB Tricep Kickback
 
 - Workout C (Gym B - Volume/Width):
-    1. Incline Press Machine
-    2. Lat Pulldown (Cable)
-    3. Lateral Raise Machine
-    4. Leg Press
-    5. Pectoral Fly Machine (MAX 75 lbs)
-    6. Tricep Rope Pushdown
-    7. Bicep Curl Machine
-    8. Calf Raise (On Leg Press)
-    9. Ab Crunch Bench
+    1. Leg Press
+    2. Lateral Pulldown
+    3. Lateral Raise
+    4. Calf Machine
+    5. Incline DB bench
+    6. Ab Crunch Bench
+    7. DB Flys
+    8. DB Curls
+    9. Tricep Rope Machine
 
 YOUR JOB:
 1. READ the "Recent History" provided in the prompt.
